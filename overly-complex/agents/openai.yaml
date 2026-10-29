@@ -1,0 +1,6 @@
+interface:
+  display_name: "Overly Complex"
+  short_description: "Keep speculative robustness from expanding coding tasks"
+  default_prompt: "Use $overly-complex to keep this coding task focused; explain the failure mode, likelihood, and complexity cost before adding speculative robustness, and get my buy-in."
+policy:
+  allow_implicit_invocation: false

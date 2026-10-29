@@ -1,0 +1,21 @@
+{
+  "name": "overly-complex",
+  "owner": {
+    "name": "ekeric13"
+  },
+  "description": "A Claude Code plugin marketplace for the Overly Complex skill.",
+  "plugins": [
+    {
+      "name": "overly-complex",
+      "source": "./",
+      "description": "Keep coding tasks from growing through speculative robustness.",
+      "category": "productivity",
+      "keywords": [
+        "coding",
+        "simplicity",
+        "scope",
+        "robustness"
+      ]
+    }
+  ]
+}

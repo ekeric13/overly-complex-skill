@@ -1,0 +1,17 @@
+{
+  "name": "overly-complex",
+  "version": "0.1.0",
+  "description": "Keep coding tasks from growing through speculative robustness.",
+  "author": {
+    "name": "ekeric13"
+  },
+  "keywords": [
+    "coding",
+    "simplicity",
+    "scope",
+    "robustness"
+  ],
+  "skills": [
+    "./overly-complex"
+  ]
+}
